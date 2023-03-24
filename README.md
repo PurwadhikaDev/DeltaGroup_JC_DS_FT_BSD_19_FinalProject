@@ -18,8 +18,8 @@ sklearn
 
 **Authors**<br>
 This project was completed by the Delta Group (JC-DS-FT-BSD-19) consisting of the following members:
-Citranika Sejati
-Abdurrahman Nur Ashri Diasta Fajar Ramadlan
+Citranika Sejati<br>
+Abdurrahman Nur Ashri Diasta Fajar Ramadlan<br>
 Yoshiando Marudut Simangunsong
 
 **Acknowledgments**<br>
