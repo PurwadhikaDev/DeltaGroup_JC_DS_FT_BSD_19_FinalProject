@@ -9,15 +9,10 @@ The dataset used in this project is the Bank Marketing Campaigns dataset availab
 The main file in this repository is the Bank Marketing Campaigns Analysis and Modeling.ipynb Jupyter Notebook. It contains the code for data cleaning, exploratory data analysis, feature engineering, model building, and model evaluation.
 
 **Dependencies**<br>
-The following libraries are required to run the code in the Jupyter Notebook:
-pandas
-numpy
-matplotlib
-seaborn
-sklearn
+The following libraries are required to run the code in the Jupyter Notebook: pandas, numpy, matplotlib, seaborn, and sklearn.
 
 **Authors**<br>
-This project was completed by the Delta Group (JC-DS-FT-BSD-19) consisting of the following members:
+This project was completed by the Delta Group (JC-DS-FT-BSD-19) consisting of the following members:<br>
 Citranika Sejati<br>
 Abdurrahman Nur Ashri Diasta Fajar Ramadlan<br>
 Yoshiando Marudut Simangunsong
